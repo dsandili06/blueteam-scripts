@@ -1,4 +1,4 @@
-# 🛡️ blueteam-scripts
+#  blueteam-scripts
 
 Colección de scripts de Blue Team para operaciones SOC: triage de endpoints, enumeración de hosts, análisis de logs e inteligencia de amenazas.
 
@@ -43,7 +43,7 @@ Scripts para consultar IOCs (IPs, hashes, dominios, URLs) contra plataformas com
 
 ---
 
-## 👤 Autor
+##  Autor
 
 **Santiago Daniel Sandili**  
 SOC Analyst / Blue Team Practitioner  
